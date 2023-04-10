@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### 💫About Me💫
-- 🔭 I'm currently working on Code Labs Solutions, a company founded and led by Mohamad Allal as CEO and developer.
+- 🔭 I'm currently working at Code Labs Solutions, a company founded and led by Mohamad Allal as CEO and developer.
 - 🪪 I am Mohamad Allal, a developer, Founder and CEO for Code Labs Solutions.
 - 💻 Our goal is to release the perfect business/enterprise suite of software.
 - 🔧 Our software aims to be clean, fluent and functional, by including all the suite inside one software.
